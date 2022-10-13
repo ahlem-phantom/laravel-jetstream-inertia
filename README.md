@@ -1,0 +1,2 @@
+# laravel-jetstream-inertia
+Authentication
